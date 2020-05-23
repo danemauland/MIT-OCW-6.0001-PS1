@@ -43,4 +43,3 @@ else:
         j += 1
     print("Best savings rate:", portion_saved)
     print("Steps in bisection search:",j)
-    print(current_savings)
